@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1331-rank-transform-of-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0455-assign-cookies) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0455-assign-cookies) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
