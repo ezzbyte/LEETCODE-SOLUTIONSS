@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0168-excel-sheet-column-title) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
