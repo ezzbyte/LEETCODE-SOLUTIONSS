@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0821-shortest-distance-to-a-character](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0821-shortest-distance-to-a-character) |
 | [1331-rank-transform-of-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0168-excel-sheet-column-title) |
+| [0821-shortest-distance-to-a-character](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0821-shortest-distance-to-a-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0455-assign-cookies) |
+| [0821-shortest-distance-to-a-character](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0821-shortest-distance-to-a-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
