@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0628-maximum-product-of-three-numbers) |
