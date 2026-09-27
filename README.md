@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0179-largest-number) |
 | [0821-shortest-distance-to-a-character](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0821-shortest-distance-to-a-character) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -261,10 +262,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
