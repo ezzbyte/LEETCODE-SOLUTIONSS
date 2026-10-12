@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1331-rank-transform-of-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1331-rank-transform-of-an-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0268-missing-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
