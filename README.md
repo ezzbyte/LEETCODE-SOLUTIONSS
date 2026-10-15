@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1331-rank-transform-of-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1331-rank-transform-of-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -349,4 +351,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0022-generate-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
