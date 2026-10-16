@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0033-search-in-rotated-sorted-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0075-sort-colors) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0455-assign-cookies) |
