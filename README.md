@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3483-unique-3-digit-even-numbers) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Divide and Conquer
 |  |
