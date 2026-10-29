@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0066-plus-one) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0268-missing-number) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0036-valid-sudoku) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
