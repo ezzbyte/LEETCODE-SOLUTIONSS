@@ -12,13 +12,10 @@ var isValidSudoku = function(board) {
         for (let c = 0; c < 9; c++) {
             let num = board[r][c];
 
-            // Ignore empty cells
             if (num === ".") continue;
 
-            // Identify the 3 x 3 box
             let boxIndex = Math.floor(r / 3) * 3 + Math.floor(c / 3);
 
-            // Check for duplicates
             if (
                 rows[r].has(num) ||
                 cols[c].has(num) ||
@@ -27,7 +24,6 @@ var isValidSudoku = function(board) {
                 return false;
             }
 
-            // Record the digit
             rows[r].add(num);
             cols[c].add(num);
             boxes[boxIndex].add(num);
