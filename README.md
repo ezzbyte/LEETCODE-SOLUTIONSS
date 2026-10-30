@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Trie
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -418,4 +420,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0036-valid-sudoku) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
