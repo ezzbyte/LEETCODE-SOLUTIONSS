@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3731-find-missing-elements) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0678-valid-parenthesis-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3665-twisted-mirror-path-count](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0036-valid-sudoku) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
 |  |
