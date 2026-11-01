@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/noceur06/LEETCODE-SOLUTIONSS/tree/master/0836-rectangle-overlap) |
